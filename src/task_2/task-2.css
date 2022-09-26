@@ -1,0 +1,22 @@
+.podzoznam ul li:first-child{
+    color: red;
+}
+
+.podzoznam ul li:last-child{
+    color: green;
+}
+
+span.oujea:hover + ul li:nth-child(2){
+    background: red;
+}
+
+ul.zoznam{
+    list-style-image: url("https://source.unsplash.com/random/25x25?sig=1");
+}
+
+/*.zoznam:nth-child(2){*/
+/*    color: orange !important;*/
+/*}*/
+/*li:first-child{*/
+/*    color: red;*/
+/*}*/

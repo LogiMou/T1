@@ -1,0 +1,17 @@
+.farba{
+    color: brown;
+}
+
+.nadpis{
+    text-align: center;
+}
+
+.lorem{
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+li:nth-child(even){
+    color: red;
+}
